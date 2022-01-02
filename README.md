@@ -1,4 +1,5 @@
-# CH_info
+# CH_info [![Visits Badge](https://badges.pufler.dev/visits/mahmoude4477/CH_info)](https://badges.pufler.dev)
+
 A simple project that you can develop that shows you the challenges that the user has solvedand shows you the ranking list
 
 # method
